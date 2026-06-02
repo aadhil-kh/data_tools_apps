@@ -1,4 +1,4 @@
-# Data Tools Hub — Issue Tracker
+# Data Tools Hub - Issue Tracker
 
 > **This repository is not source code.** JSON Hub, XML Hub, CSV Hub, YAML Tools, XML Tools, and JSON Tools are closed-source apps. This repo exists solely as a public issue tracker for bug reports, feature requests, and general feedback across all six apps.
 
@@ -26,14 +26,14 @@
 
 ## 🛠️ What Are These Apps?
 
-A suite of professional data format tools for developers — each app focuses on a specific format (JSON, XML, CSV, YAML) and provides viewing, editing, formatting, validation, and conversion capabilities.
+A suite of professional data format tools for developers - each app focuses on a specific format (JSON, XML, CSV, YAML) and provides viewing, editing, formatting, validation, and conversion capabilities.
 
 ### Why Developers Love Them
 
-- ⌨️ **Keyboard-first** — key bindings for frequent actions
-- ✏️ **Pro code editor** — syntax highlighting and code folding everywhere
-- 🛡️ **Zero telemetry** — no analytics, no network calls, no account needed
-- ⚡ **Format-native** — each app is purpose-built for its data format
+- ⌨️ **Keyboard-first** - key bindings for frequent actions
+- ✏️ **Pro code editor** - syntax highlighting and code folding everywhere
+- 🛡️ **Zero telemetry** - no analytics, no network calls, no account needed
+- ⚡ **Format-native** - each app is purpose-built for its data format
 
 ---
 
@@ -41,9 +41,9 @@ A suite of professional data format tools for developers — each app focuses on
 
 Use the [**Issues**](../../issues) tab to:
 
-- 🐞 **Report a bug** — describe what happened, what you expected, and steps to reproduce
-- 💡 **Request a feature** — explain the use case and what problem it solves
-- ❓ **Ask a question** — if something in the app isn't clear
+- 🐞 **Report a bug** - describe what happened, what you expected, and steps to reproduce
+- 💡 **Request a feature** - explain the use case and what problem it solves
+- ❓ **Ask a question** - if something in the app isn't clear
 
 ### Before You Open an Issue
 
@@ -54,7 +54,7 @@ Use the [**Issues**](../../issues) tab to:
 
 ### Bug Report Checklist
 
-- [ ] Clear, descriptive title — **include the app name** (e.g., `[XML Hub] …`)
+- [ ] Clear, descriptive title - **include the app name** (e.g., `[XML Hub] …`)
 - [ ] Steps to reproduce the issue
 - [ ] Expected vs. actual behaviour
 - [ ] Screenshots or screen recordings (if applicable)
@@ -100,5 +100,5 @@ Pull requests will be closed, as the source code is not hosted here.
 
 For anything that doesn't fit a GitHub issue (licensing, refunds, etc.), reach out via the respective store support page:
 
-- **Microsoft Store apps** — use the in-store support/report option for JSON Hub, XML Hub, or CSV Hub
-- **App Store apps** — use the in-app support link or the App Store review page for JSON Tools, XML Tools, or YAML Tools
+- **Microsoft Store apps** - use the in-store support/report option for JSON Hub, XML Hub, or CSV Hub
+- **App Store apps** - use the in-app support link or the App Store review page for JSON Tools, XML Tools, or YAML Tools
