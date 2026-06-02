@@ -29,10 +29,3 @@ body:
       placeholder: "e.g. JSON Hub 2.1.0 / Windows 11 24H2"
     validations:
       required: true
-  - type: textarea
-    id: extra
-    attributes:
-      label: Screenshots or additional context
-      description: "Paste screenshots or any other details."
-    validations:
-      required: false
