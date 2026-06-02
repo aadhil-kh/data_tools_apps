@@ -1,0 +1,38 @@
+name: "\U0001F41B [JSON Hub] Bug Report"
+description: "Report a bug in JSON Hub (Windows)"
+labels: ["bug", "app: json-hub"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the issue. What did you expect to happen?
+      placeholder: "e.g. When I open a large JSON file, the app freezes."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we reproduce this?
+      placeholder: |
+        1. Open a file with...
+        2. Click on...
+        3. See error...
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: App version & Windows version
+      description: "Find app version in Settings → About"
+      placeholder: "e.g. JSON Hub 2.1.0 / Windows 11 24H2"
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or additional context
+      description: "Paste screenshots or any other details."
+    validations:
+      required: false

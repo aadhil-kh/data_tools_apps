@@ -10,17 +10,17 @@
 
 | App | Link |
 |---|---|
-| **JSON Hub** | [Download on Microsoft Store](https://apps.microsoft.com/detail/9n57qzdj1bcg) |
-| **XML Hub** | [Download on Microsoft Store](https://apps.microsoft.com/detail/9mtcwsvf98ds) |
-| **CSV Hub** | [Download on Microsoft Store](https://apps.microsoft.com/detail/9n4d6nkhxf2g) |
+| **JSON Hub** | [![Microsoft Store](https://devtpro.app/assets/media/ms-store.svg)](https://apps.microsoft.com/detail/9n57qzdj1bcg) |
+| **XML Hub** | [![Microsoft Store](https://devtpro.app/assets/media/ms-store.svg)](https://apps.microsoft.com/detail/9mtcwsvf98ds) |
+| **CSV Hub** | [![Microsoft Store](https://devtpro.app/assets/media/ms-store.svg)](https://apps.microsoft.com/detail/9n4d6nkhxf2g) |
 
 ### Apple (App Store)
 
 | App | Link |
 |---|---|
-| **JSON Tools** | [Download on App Store](https://apps.apple.com/in/app/json-tools/id1526081216) |
-| **XML Tools** | [Download on App Store](https://apps.apple.com/in/app/xml-tools/id6758571472) |
-| **YAML Tools** | [Download on App Store](https://apps.apple.com/in/app/yaml-tools/id6758571420) |
+| **JSON Tools** | [![App Store](https://devtpro.app/assets/media/mac-store.svg)](https://apps.apple.com/in/app/json-tools/id1526081216) |
+| **XML Tools** | [![App Store](https://devtpro.app/assets/media/mac-store.svg)](https://apps.apple.com/in/app/xml-tools/id6758571472) |
+| **YAML Tools** | [![App Store](https://devtpro.app/assets/media/mac-store.svg)](https://apps.apple.com/in/app/yaml-tools/id6758571420) |
 
 ---
 
