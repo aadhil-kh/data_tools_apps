@@ -2,19 +2,19 @@ name: "\U0001F41B [JSON Tools] Bug Report"
 description: "Report a bug in JSON Tools (macOS / iPadOS)"
 labels: ["bug", "app: json-tools"]
 body:
-  - type: textarea
-    id: description
-    attributes:
-      label: What happened?
-      description: Describe the issue. What did you expect to happen?
-      placeholder: "e.g. JSON validation shows false errors on valid files."
-    validations:
-      required: true
   - type: input
     id: version
     attributes:
       label: App version & macOS/iPadOS version
       description: "Find app version in Settings → About"
       placeholder: "e.g. JSON Tools 2.1.0 / macOS 15.3"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the issue. What did you expect to happen?
+      placeholder: "e.g. JSON validation shows false errors on valid files."
     validations:
       required: true

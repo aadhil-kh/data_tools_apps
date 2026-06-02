@@ -2,30 +2,19 @@ name: "\U0001F41B [YAML Tools] Bug Report"
 description: "Report a bug in YAML Tools (macOS / iPadOS)"
 labels: ["bug", "app: yaml-tools"]
 body:
-  - type: textarea
-    id: description
-    attributes:
-      label: What happened?
-      description: Describe the issue. What did you expect to happen?
-      placeholder: "e.g. YAML to JSON conversion drops anchor references."
-    validations:
-      required: true
-  - type: textarea
-    id: steps
-    attributes:
-      label: Steps to reproduce
-      description: How can we reproduce this?
-      placeholder: |
-        1. Open a file with...
-        2. Click on...
-        3. See error...
-    validations:
-      required: false
   - type: input
     id: version
     attributes:
       label: App version & macOS/iPadOS version
       description: "Find app version in Settings → About"
       placeholder: "e.g. YAML Tools 1.0.0 / macOS 15.3"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the issue. What did you expect to happen?
+      placeholder: "e.g. YAML to JSON conversion drops anchor references."
     validations:
       required: true

@@ -2,19 +2,19 @@ name: "\U0001F41B [XML Tools] Bug Report"
 description: "Report a bug in XML Tools (macOS / iPadOS)"
 labels: ["bug", "app: xml-tools"]
 body:
-  - type: textarea
-    id: description
-    attributes:
-      label: What happened?
-      description: Describe the issue. What did you expect to happen?
-      placeholder: "e.g. XPath evaluation returns incorrect results."
-    validations:
-      required: true
   - type: input
     id: version
     attributes:
       label: App version & macOS/iPadOS version
       description: "Find app version in Settings → About"
       placeholder: "e.g. XML Tools 1.2.0 / macOS 15.3"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the issue. What did you expect to happen?
+      placeholder: "e.g. XPath evaluation returns incorrect results."
     validations:
       required: true

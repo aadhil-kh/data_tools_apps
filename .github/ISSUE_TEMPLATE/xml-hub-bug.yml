@@ -2,30 +2,19 @@ name: "\U0001F41B [XML Hub] Bug Report"
 description: "Report a bug in XML Hub (Windows)"
 labels: ["bug", "app: xml-hub"]
 body:
-  - type: textarea
-    id: description
-    attributes:
-      label: What happened?
-      description: Describe the issue. What did you expect to happen?
-      placeholder: "e.g. Formatting an XML file removes CDATA sections."
-    validations:
-      required: true
-  - type: textarea
-    id: steps
-    attributes:
-      label: Steps to reproduce
-      description: How can we reproduce this?
-      placeholder: |
-        1. Open a file with...
-        2. Click on...
-        3. See error...
-    validations:
-      required: false
   - type: input
     id: version
     attributes:
       label: App version & Windows version
       description: "Find app version in Settings → About"
       placeholder: "e.g. XML Hub 1.3.0 / Windows 11 24H2"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the issue. What did you expect to happen?
+      placeholder: "e.g. Formatting an XML file removes CDATA sections."
     validations:
       required: true
